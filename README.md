@@ -58,7 +58,7 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 ### 🚀 DevOps
 
-<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" /> 
 
 ### 💬 Languages
 
@@ -66,13 +66,14 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 ### 🧠 AI/ML
 
-<img src="https://img.shields.io/badge/TensorFlow-00CED1?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit-Learn-00CED1?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-00CED1?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=red" /> <img src="https://img.shields.io/badge/Scikit-Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=red" /> <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=red" /> 
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-basge)](https://github.com/LousyBook94) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LousyBook94) 
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://github.com/LousyBook94)
 
 </div>
 
@@ -89,5 +90,5 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 <!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/LousyBook94/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=LousyBook94&style=for-the-badge" alt="Visitor Count" />
 </div>
