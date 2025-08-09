@@ -66,7 +66,7 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 ### 🧠 AI/ML
 
-<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=red" /> <img src="https://img.shields.io/badge/Scikit-Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=red" /> <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=red" /> 
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=red" /> <img src="https://img.shields.io/badge/Scikit-Learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=yellow" /> <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=red" /> 
 
 ## 🌐 Socials
 
