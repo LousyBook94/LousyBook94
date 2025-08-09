@@ -18,7 +18,7 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 <!-- ⚠️ Important: Replace 'LousyBook94' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/LousyBook94/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=LousyBook94&style=for-the-badge" />
   <br>Thank you for visiting my profile! Come back soon!
 </p>
 
@@ -50,13 +50,6 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LousyBook94&theme=default&hide_border=false" />
 </div>
 
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
-</div>
-
 ## 💻 Tech Stack
 
 ### 🎨 Frontend
@@ -69,7 +62,7 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 ### 💬 Languages
 
-<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> 
 
 ### 🧠 AI/ML
 
@@ -79,7 +72,7 @@ Python, C#, Unity, GameDev, AI, Machine Learning from scratch
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/LousyBook94) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-basge)](https://github.com/LousyBook94) 
 
 </div>
 
